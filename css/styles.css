@@ -127,7 +127,7 @@ body{
 
 .pokedetail{
   width: 50%;
-  height: calc(90vh - 30px);
+  min-height: calc(90vh - 30px);
   padding: 10px;
   margin: 10px;
   text-align: center;
